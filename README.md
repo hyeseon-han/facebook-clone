@@ -12,6 +12,7 @@
 
 
 ### `Login`
+- google login
 <img src="https://user-images.githubusercontent.com/59430483/104286586-972f1580-54f8-11eb-8f7d-d0cd077aa0c1.png" width="20%">
 
 ### `Main Page`
